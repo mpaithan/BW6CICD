@@ -1,0 +1,13 @@
+2017-11-17 12:02:01,428 WARN  [SoapUI] Missing folder [C:\Program Files (x86)\Jenkins\workspace\DEMOCICDBW6\.\ext] for external libraries
+2017-11-17 12:02:01,429 INFO  [DefaultSoapUICore] Creating new settings at [C:\WINDOWS\system32\config\systemprofile\soapui-settings.xml]
+2017-11-17 12:02:02,700 WARN  [SoapUIProGroovyScriptEngineFactory] Missing scripts folder [C:\Program Files (x86)\Jenkins\workspace\DEMOCICDBW6\scripts]
+2017-11-17 12:02:03,439 INFO  [WsdlProject] Loaded project from [file:/C:/Program%20Files%20(x86)/Jenkins/workspace/DEMOCICDBW6/TEST/REST-Project-6-soapui-project.xml]
+2017-11-17 12:02:03,857 INFO  [SoapUIProTestCaseRunner] Setting project property [message] to [Hello World!]
+2017-11-17 12:02:03,862 INFO  [SoapUIProTestCaseRunner] Running SoapUI tests in project [REST Project 8]
+2017-11-17 12:02:03,864 INFO  [SoapUIProTestCaseRunner] Running Project [REST Project 8], runType = SEQUENTIAL
+2017-11-17 12:02:03,893 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [Gethost TestCase]
+2017-11-17 12:02:03,899 INFO  [SoapUIProTestCaseRunner] running step [Request 1]
+2017-11-17 12:02:04,080 INFO  [SoapUIProTestCaseRunner] Assertion [Contains] has status VALID
+2017-11-17 12:02:04,085 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [Gethost TestCase], time taken: 123ms, status: FINISHED
+2017-11-17 12:02:04,085 INFO  [SoapUIProTestCaseRunner] Project [REST Project 8] finished with status [FINISHED] in 215ms
+2017-11-17 12:02:04,719 INFO  [SoapUIProTestCaseRunner] Created report at file:/C:/Program%20Files%20(x86)/Jenkins/workspace/DEMOCICDBW6/TEST/target/surefire-reports/index.html

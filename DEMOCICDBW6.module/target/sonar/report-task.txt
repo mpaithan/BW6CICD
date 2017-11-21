@@ -1,0 +1,5 @@
+projectKey=com.tibco.bw:DEMOCICDBW6.module
+serverUrl=http://10.97.100.99:9000
+dashboardUrl=http://10.97.100.99:9000/dashboard/index/com.tibco.bw:DEMOCICDBW6.module
+ceTaskId=AV_JVGXablERvHzAdeYx
+ceTaskUrl=http://10.97.100.99:9000/api/ce/task?id=AV_JVGXablERvHzAdeYx
