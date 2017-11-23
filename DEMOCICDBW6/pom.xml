@@ -20,7 +20,7 @@
     <agentPort>8079</agentPort>
     <truststorePassword></truststorePassword>
     <agentAuth></agentAuth>
-    <agentHost>10.97.119.73</agentHost>
+    <agentHost>mpaithan-t440.apac.tibco.com</agentHost>
     <httpPort>8082</httpPort>
     <appNode>AppnodeCICD</appNode>
     <osgiPort></osgiPort>
